@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crivera8681
+- 👋 Hi, I’m Carlos Rivera!
 - 👀 I’m interested in ... Creating top tier Video Games and Software
 - 🌱 I’m currently learning ... How to find a job
 - 💞️ I’m looking to collaborate on ... Video Games with passionate individuals
