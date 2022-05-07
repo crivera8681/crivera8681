@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Carlos Rivera!
-- 👀 I’m interested in ... Creating top tier Video Games and Software
-- 🌱 I’m currently learning ... How to find a job
-- 💞️ I’m looking to collaborate on ... Video Games with passionate individuals
+- 🌱 I’m currently learning ... SAS Programming
+- 💞️ I’m looking to collaborate on ... Enterprise software with passionate individuals
 - 📫 How to reach me ... crivera8681@gmail.com | 7605607503 |
 
 <!---
